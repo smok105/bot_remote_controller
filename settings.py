@@ -1,4 +1,4 @@
-TOKEN='1185808541:AAFcc95yBTmsuS7TNXaXOhePF5C8eKCy8sM'
+TOKEN='token'
 
 #
 # import alsaaudio # этот модуль надо предварительно установить: sudo apt-get install python-alsaaudio
